@@ -51,5 +51,3 @@ rsconnect::deployApp(server = "your-server")
 ## Author
 Bryan Luke Shabroski
 
----
-*For Binghamton University Student Success*
